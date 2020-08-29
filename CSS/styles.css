@@ -1,0 +1,157 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    }
+h1{
+    font-size: 5.625rem;
+    margin:50px auto 0px auto; 
+    color:#66BFBF;  
+    font-family: 'Sacramento', cursive;
+    
+    padding: 10p;
+}
+h2{
+    font-size: 2.5rem;
+    color:#66BFBF;  
+    font-family: 'Montserrat', sans-serif;
+}
+ h3{
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+       
+    }
+  
+p{
+    line-height: 2;
+}
+hr {
+    border-color:#EAF6F6;
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a:hover{
+    color: #eb8f8f;
+}
+.top-sun{
+    height: 100px;
+    position: absolute;
+    right: 325px;
+    top: 18px;
+}
+    
+.top-cloud{
+   
+ position: absolute;
+ right: 328px;
+ top:85px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+
+}
+.profile-pic{
+    background-color: #dddddc;
+    border-radius: 87px;
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: white;
+    padding: 100px 0;
+    
+}
+.skill-row{
+    /* display: inline-block; */
+    width: 50%;
+    /* position: relative; */
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height:2;    
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 20px;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.profile{
+    width:40%;
+    margin: auto;
+}
+
+.footer-container{
+    color: #11999E;
+}
+.computer-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.reasoning-img{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.btn{
+    border: 5px solid #11999e;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: #11999e;
+    color:white;
+    padding: 2px;
+    display: inline-block;
+    margin-bottom: 5px;
+    position: relative;
+    top: 58px;
+}
+
+.contact-me{
+    width:40%;
+    margin: 40px auto;
+}
+  
+.linkedin-link{
+    margin-left: 2px;
+    text-decoration: none;
+    color:#11999E;
+    margin-right: 40px;
+
+}
+.instragram-link{
+    margin-left: 40px;
+}
+.facebook-link{
+    text-decoration: none;
+    color:#11999E;
+}
+
+.linke-icon{
+
+}
+.fb-icon{
+        height: 26px;
+    
+}
+.instra-icon{
+
+}
